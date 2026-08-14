@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T08:05:00Z",
+            "last_commit": "2026-08-14T07:29:49Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72857
+            "stars": 72884
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-11T07:07:10Z",
             "owner": "keystonejs",
             "repo": "keystone",
-            "stars": 9939
+            "stars": 9940
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T19:38:58Z",
+            "last_commit": "2026-08-13T21:03:17Z",
             "owner": "apostrophecms",
             "repo": "apostrophe",
-            "stars": 4598
+            "stars": 4599
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75698
+            "stars": 75702
           }
         },
         {
@@ -143,10 +143,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T13:29:57Z",
+            "last_commit": "2026-08-13T13:29:50Z",
             "owner": "sahat",
             "repo": "hackathon-starter",
-            "stars": 35245
+            "stars": 35246
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-11T19:33:24Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27052
+            "stars": 27060
           }
         },
         {
@@ -171,10 +171,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-01T07:52:46Z",
+            "last_commit": "2026-08-13T15:42:31Z",
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23524
+            "stars": 23530
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2023-10-23T16:23:59Z",
             "owner": "typicode",
             "repo": "hotel",
-            "stars": 10002
+            "stars": 10003
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2018-03-20T18:37:04Z",
             "owner": "witheve",
             "repo": "Eve",
-            "stars": 7223
+            "stars": 7224
           }
         },
         {
@@ -261,10 +261,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T07:28:16Z",
+            "last_commit": "2026-08-14T04:59:37Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 54749
+            "stars": 54755
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2026-08-12T18:42:36Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41769
+            "stars": 41772
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T08:07:16Z",
+            "last_commit": "2026-08-14T07:52:29Z",
             "owner": "Automattic",
             "repo": "wp-calypso",
             "stars": 12634
@@ -371,10 +371,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T21:39:59Z",
+            "last_commit": "2026-08-13T20:14:07Z",
             "owner": "HabitRPG",
             "repo": "habitica",
-            "stars": 14063
+            "stars": 14060
           }
         },
         {
@@ -433,7 +433,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:04:07Z",
+            "last_commit": "2026-08-14T04:03:13Z",
             "owner": "third-culture-software",
             "repo": "bhima",
             "stars": 230
@@ -481,10 +481,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T07:35:28Z",
+            "last_commit": "2026-08-13T23:45:11Z",
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13079
+            "stars": 13083
           }
         },
         {
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:07:33.156Z",
+    "last_updated": "2026-08-14T08:04:19.129Z",
     "original_repository": "sqreen/awesome-nodejs-projects",
     "original_repository_sha": "16d30283c1f2914e25467866896b06a052762c8b",
     "enhanced_repository": "enhansome/enhansome-nodejs-projects",
