@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:50:53Z",
+            "last_commit": "2026-08-17T07:35:45Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72938
+            "stars": 72943
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T07:07:10Z",
+            "last_commit": "2026-08-17T07:00:30Z",
             "owner": "keystonejs",
             "repo": "keystone",
-            "stars": 9939
+            "stars": 9941
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75702
+            "stars": 75692
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-15T01:28:36Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27058
+            "stars": 27062
           }
         },
         {
@@ -171,10 +171,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T15:42:31Z",
+            "last_commit": "2026-08-16T12:33:31Z",
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23536
+            "stars": 23538
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2023-10-23T16:23:59Z",
             "owner": "typicode",
             "repo": "hotel",
-            "stars": 10003
+            "stars": 10001
           }
         },
         {
@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T20:27:11Z",
+            "last_commit": "2026-08-17T03:18:44Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
             "stars": 5981
@@ -261,10 +261,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T06:30:58Z",
+            "last_commit": "2026-08-17T07:37:05Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 54781
+            "stars": 54789
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2026-08-12T18:42:36Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41772
+            "stars": 41769
           }
         },
         {
@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T01:48:10Z",
+            "last_commit": "2026-08-17T07:18:53Z",
             "owner": "Automattic",
             "repo": "wp-calypso",
-            "stars": 12636
+            "stars": 12637
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-06T13:29:26Z",
             "owner": "coderaiser",
             "repo": "cloudcmd",
-            "stars": 2020
+            "stars": 2021
           }
         }
       ],
@@ -374,7 +374,7 @@
             "last_commit": "2026-08-14T21:17:35Z",
             "owner": "HabitRPG",
             "repo": "habitica",
-            "stars": 14066
+            "stars": 14067
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2019-04-23T20:58:33Z",
             "owner": "jansmolders86",
             "repo": "mediacenterjs",
-            "stars": 1280
+            "stars": 1279
           }
         },
         {
@@ -433,7 +433,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T03:59:29Z",
+            "last_commit": "2026-08-17T04:03:51Z",
             "owner": "third-culture-software",
             "repo": "bhima",
             "stars": 230
@@ -484,7 +484,7 @@
             "last_commit": "2026-08-14T20:44:54Z",
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13084
+            "stars": 13085
           }
         },
         {
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:19:23.781Z",
+    "last_updated": "2026-08-17T07:40:27.399Z",
     "original_repository": "sqreen/awesome-nodejs-projects",
     "original_repository_sha": "16d30283c1f2914e25467866896b06a052762c8b",
     "enhanced_repository": "enhansome/enhansome-nodejs-projects",
