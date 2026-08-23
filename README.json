@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T22:02:04Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72995
+            "stars": 73002
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T01:10:40Z",
             "owner": "keystonejs",
             "repo": "keystone",
-            "stars": 9962
+            "stars": 9963
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75682
+            "stars": 75687
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27090
+            "stars": 27093
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-16T12:33:31Z",
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23567
+            "stars": 23568
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2018-03-20T18:37:04Z",
             "owner": "witheve",
             "repo": "Eve",
-            "stars": 7223
+            "stars": 7222
           }
         },
         {
@@ -228,10 +228,10 @@
             "archived": false,
             "id": 4117355,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T22:14:33Z",
+            "last_commit": "2026-08-22T18:04:17Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
-            "stars": 5983
+            "stars": 5982
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T07:18:46Z",
+            "last_commit": "2026-08-23T06:45:05Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189121
+            "stars": 189317
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2023-01-03T10:49:48Z",
             "owner": "atom",
             "repo": "atom",
-            "stars": 60777
+            "stars": 60778
           }
         }
       ],
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T06:31:09Z",
+            "last_commit": "2026-08-23T06:31:43Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 54975
+            "stars": 55042
           }
         },
         {
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 45936895,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T07:04:04Z",
+            "last_commit": "2026-08-23T06:45:01Z",
             "owner": "Automattic",
             "repo": "wp-calypso",
             "stars": 12637
@@ -372,7 +372,7 @@
             "last_commit": "2018-11-11T09:51:18Z",
             "owner": "DimiMikadze",
             "repo": "Mean-Blog",
-            "stars": 161
+            "stars": 160
           }
         }
       ],
@@ -393,7 +393,7 @@
             "last_commit": "2025-03-09T01:26:13Z",
             "owner": "subnub",
             "repo": "myDrive",
-            "stars": 4228
+            "stars": 4227
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2026-08-06T13:29:26Z",
             "owner": "coderaiser",
             "repo": "cloudcmd",
-            "stars": 2021
+            "stars": 2023
           }
         }
       ],
@@ -429,7 +429,7 @@
             "last_commit": "2026-08-21T18:55:54Z",
             "owner": "HabitRPG",
             "repo": "habitica",
-            "stars": 14082
+            "stars": 14085
           }
         },
         {
@@ -543,10 +543,10 @@
             "archived": false,
             "id": 36753839,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T22:12:26Z",
+            "last_commit": "2026-08-23T00:27:30Z",
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13087
+            "stars": 13089
           }
         },
         {
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:20:01.617Z",
+    "last_updated": "2026-08-23T07:21:35.434Z",
     "original_repository": "sqreen/awesome-nodejs-projects",
     "original_repository_id": 72203974,
     "original_repository_sha": "16d30283c1f2914e25467866896b06a052762c8b",
