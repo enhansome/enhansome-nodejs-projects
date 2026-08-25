@@ -1,15 +1,15 @@
 # Awesome Node.js projects with stars
 
-> A curated list of awesome open-source applications made with Node.js. See [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,611 | 🐛 26 | 📅 2026-05-03
+> A curated list of awesome open-source applications made with Node.js. See [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,621 | 🐛 26 | 📅 2026-05-03
 > for a curated list of packages and resources.
 
 > [Read the story of how this repository ranked first on Hacker News and reached the 1000+ stars on Github.](https://medium.com/@vdeturckheim/the-story-of-how-i-got-first-place-on-hacker-news-and-got-1000-stars-on-github-9dc9e63ef829#.1v4b51fvs)
 
 ## CMS
 
-* [Strapi](https://github.com/strapi/strapi) ⭐ 73,010 | 🐛 535 | 🌐 TypeScript | 📅 2026-08-24 ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
-* [Keystone](https://github.com/keystonejs/keystone) ⭐ 9,963 | 🐛 145 | 🌐 TypeScript | 📅 2026-08-24 ([website](http://keystonejs.com/)) - The open source framework for developing database-driven websites, applications and APIs. Built on Express and MongoDB.
-* [Apostrophe](https://github.com/punkave/apostrophe) ⭐ 4,604 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-19 ([website](http://apostrophecms.org/)) - Apostrophe is a CMS framework that supports in-context editing, schema-driven content types, flexible widgets, and much more.
+* [Strapi](https://github.com/strapi/strapi) ⭐ 73,013 | 🐛 537 | 🌐 TypeScript | 📅 2026-08-24 ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
+* [Keystone](https://github.com/keystonejs/keystone) ⭐ 9,964 | 🐛 138 | 🌐 TypeScript | 📅 2026-08-25 ([website](http://keystonejs.com/)) - The open source framework for developing database-driven websites, applications and APIs. Built on Express and MongoDB.
+* [Apostrophe](https://github.com/punkave/apostrophe) ⭐ 4,605 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-19 ([website](http://apostrophecms.org/)) - Apostrophe is a CMS framework that supports in-context editing, schema-driven content types, flexible widgets, and much more.
 * [Raneto](https://github.com/gilbitron/Raneto) ⭐ 2,899 | 🐛 92 | 🌐 JavaScript | 📅 2026-03-18 ([website](http://raneto.com/)) - Markdown powered Knowledgebase for Nodejs
 * [Pencilblue](https://github.com/pencilblue/pencilblue) ⭐ 1,568 | 🐛 62 | 🌐 JavaScript | 📅 2021-12-09 ([website](https://pencilblue.org/)) - Business Class Content Management.
 * [Cody](https://github.com/jcoppieters/cody/) ⭐ 681 | 🐛 8 | 🌐 JavaScript | 📅 2025-08-06 ([website](http://cody-cms.org/en/)) - Javascript Content Management System.
@@ -22,19 +22,19 @@
 
 ## Developers
 
-* [JSON-server](https://github.com/typicode/json-server) ⭐ 75,687 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
+* [JSON-server](https://github.com/typicode/json-server) ⭐ 75,689 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,247 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-24 - A boilerplate for Node.js web applications.
-* [Shield](https://github.com/badges/shields) ⭐ 27,098 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-21 ([website](http://shields.io/)) - Shields badge specification, website and default API server.
-* [Node-RED](https://github.com/node-red/node-red) ⭐ 23,572 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-16 - A visual tool for wiring the Internet of Things
+* [Shield](https://github.com/badges/shields) ⭐ 27,105 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-21 ([website](http://shields.io/)) - Shields badge specification, website and default API server.
+* [Node-RED](https://github.com/node-red/node-red) ⭐ 23,575 | 🐛 323 | 🌐 JavaScript | 📅 2026-08-16 - A visual tool for wiring the Internet of Things
 * [Hotel](https://github.com/typicode/hotel) ⭐ 10,002 | 🐛 122 | 🌐 JavaScript | 📅 2023-10-23 - Start your dev servers from your browser and get local domains in seconds.
 * [Eve](https://github.com/witheve/Eve) ⭐ 7,222 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 ([website](http://witheve.com/)) - Eve is a set of tools to help us think. Currently, these tools include: a temporal query language, a compiler, and a database.
-* [Mongo-Express](https://github.com/mongo-express/mongo-express) ⭐ 5,983 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-23 - Web-based MongoDB admin interface, written with express.
+* [Mongo-Express](https://github.com/mongo-express/mongo-express) ⭐ 5,984 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-24 - Web-based MongoDB admin interface, written with express.
 * [David-www](https://github.com/alanshaw/david-www) ⭐ 721 | 🐛 61 | 🌐 JavaScript | 📅 2022-12-14 ([website](https://david-dm.org/)) - David helps keep your project dependencies up to date.
 * [nscm](https://github.com/nodesource/nscm) ⚠️ Archived - An open-source CLI tool for working with NodeSource Certified Modules
 
 **Electron apps**
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 189,367 | 🐛 20,054 | 🌐 TypeScript | 📅 2026-08-24 ([website](https://code.visualstudio.com/)) - An Electron based text editor created by Microsoft.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 189,576 | 🐛 20,088 | 🌐 TypeScript | 📅 2026-08-25 ([website](https://code.visualstudio.com/)) - An Electron based text editor created by Microsoft.
 * [Atom](https://github.com/atom/atom) ⚠️ Archived ([website](https://atom.io/)) - Fully hackable text editor using Chrome.
 
 ## Communities Management
@@ -43,33 +43,33 @@
 
 ## Blogs
 
-* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,051 | 🐛 132 | 🌐 JavaScript | 📅 2026-08-24 ([website](https://ghost.org/)) - A simple, powerful publishing platform.
+* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,053 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-25 ([website](https://ghost.org/)) - A simple, powerful publishing platform.
 * [Hexo](https://github.com/hexojs/hexo) ⭐ 41,773 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-12 ([website](https://hexo.io/)) - A fast, simple & powerful blog framework.
-* [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ⭐ 12,638 | 🐛 3,227 | 🌐 TypeScript | 📅 2026-08-24 ([website](https://developer.wordpress.com/calypso/)) - The new JavaScript- and API-powered WordPress.com.
+* [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ⭐ 12,639 | 🐛 3,233 | 🌐 TypeScript | 📅 2026-08-25 ([website](https://developer.wordpress.com/calypso/)) - The new JavaScript- and API-powered WordPress.com.
 * [Reptar](https://github.com/reptar/reptar) ⭐ 264 | 🐛 11 | 🌐 JavaScript | 📅 2017-10-14 ([website](http://reptar.github.io/)) - Powerful, modern, and flexible static site generator.
 * [Mean-Blog](https://github.com/DimitriMikadze/Mean-Blog) ⭐ 160 | 🐛 0 | 🌐 JavaScript | 📅 2018-11-11 - Blog using Expressjs, Angularjs and Mongodb. MEAN Javascript Fullstack application.
 
 ## File Managers
 
-* [MyDrive](https://github.com/subnub/myDrive) ⭐ 4,227 | 🐛 30 | 🌐 TypeScript | 📅 2025-03-09 - Self Hostable Fully Featured Google Drive Clone, using MongoDB, Typescript, Amazon S3/Filesystem, and Express.
-* [Cloud Commander](https://github.com/coderaiser/cloudcmd) ⭐ 2,024 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-23([website](https://cloudcmd.io)) - Orthodox web file manager with console and editor.
+* [MyDrive](https://github.com/subnub/myDrive) ⭐ 4,228 | 🐛 30 | 🌐 TypeScript | 📅 2025-03-09 - Self Hostable Fully Featured Google Drive Clone, using MongoDB, Typescript, Amazon S3/Filesystem, and Express.
+* [Cloud Commander](https://github.com/coderaiser/cloudcmd) ⭐ 2,024 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-23([website](https://cloudcmd.io)) - Orthodox web file manager with console and editor.
 
 ## Lifestyle
 
-* [Habitica](https://github.com/HabitRPG/habitica) ⭐ 14,086 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-21 ([website](https://habitica.com/static/front)) - A habit tracker app which treats your goals like a Role Playing Game.
+* [Habitica](https://github.com/HabitRPG/habitica) ⭐ 14,090 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-21 ([website](https://habitica.com/static/front)) - A habit tracker app which treats your goals like a Role Playing Game.
 * [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ⭐ 1,278 | 🐛 32 | 🌐 JavaScript | 📅 2019-04-23 ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript based Media center.
 * [moeda](https://github.com/thompsonemerson/moeda) ⭐ 149 | 🐛 6 | 🌐 JavaScript | 📅 2023-06-25 - A foreign exchange rates and currency conversion using cli.
 
 ## Business
 
 * [TimeOff Management](https://github.com/timeoff-management/application) ⭐ 1,042 | 🐛 266 | 🌐 JavaScript | 📅 2024-03-06 ([website](http://timeoff.management/)) - Simple yet powerful absence management software for small and medium size business.
-* [Basic Hospital Information Management Application](https://github.com/IMA-WorldHealth/bhima-2.X) ⭐ 230 | 🐛 425 | 🌐 JavaScript | 📅 2026-08-24 ([website](https://bhi.ma/)) - Hospital management suite for the developing world.
-* [Agile GPS](https://github.com/llambda/agilegps) ⭐ 122 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-18 - Real-time fleet tracking software
+* [Basic Hospital Information Management Application](https://github.com/IMA-WorldHealth/bhima-2.X) ⭐ 230 | 🐛 425 | 🌐 JavaScript | 📅 2026-08-25 ([website](https://bhi.ma/)) - Hospital management suite for the developing world.
+* [Agile GPS](https://github.com/llambda/agilegps) ⭐ 123 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-18 - Real-time fleet tracking software
 * [Gadael](https://github.com/gadael/gadael) ⭐ 64 | 🐛 36 | 🌐 JavaScript | 📅 2022-12-09 ([website](http://www.gadael.org)) Leave management software with french work regulations support.
 
 ## Science
 
-* [NASA's Open MCT](https://github.com/nasa/openmct) ⭐ 13,091 | 🐛 1,074 | 🌐 JavaScript | 📅 2026-08-24 ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
+* [NASA's Open MCT](https://github.com/nasa/openmct) ⭐ 13,092 | 🐛 1,072 | 🌐 JavaScript | 📅 2026-08-24 ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
 * [MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS) ⭐ 355 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2023-03-05 - An application ehich uses Machine Learning in your browser to enhance low-light images upto a great extent.
 
 ## eCommerce
@@ -87,7 +87,7 @@
 
 ## Analytics
 
-* [Countly](https://github.com/countly/countly-server) ⭐ 5,891 | 🐛 89 | 🌐 JavaScript | 📅 2026-08-24 ([website](http://count.ly)) - Open source, mobile & web analytics and marketing platform for Android, iOS and web.
+* [Countly](https://github.com/countly/countly-server) ⭐ 5,892 | 🐛 85 | 🌐 JavaScript | 📅 2026-08-25 ([website](http://count.ly)) - Open source, mobile & web analytics and marketing platform for Android, iOS and web.
 
 ## License
 
@@ -97,4 +97,4 @@ This project is under the [CC0 1.0 license](https://creativecommons.org/publicdo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
