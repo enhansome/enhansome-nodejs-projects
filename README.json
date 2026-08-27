@@ -12,10 +12,10 @@
             "archived": false,
             "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:22:52Z",
+            "last_commit": "2026-08-27T17:14:27Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73018
+            "stars": 73017
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 8100370,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T18:53:42Z",
+            "last_commit": "2026-08-27T17:52:29Z",
             "owner": "apostrophecms",
             "repo": "apostrophe",
-            "stars": 4608
+            "stars": 4609
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75692
+            "stars": 75695
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-24T13:32:26Z",
             "owner": "sahat",
             "repo": "hackathon-starter",
-            "stars": 35248
+            "stars": 35251
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27123
+            "stars": 27124
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-27T08:26:32Z",
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23593
+            "stars": 23592
           }
         },
         {
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 4117355,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T01:04:17Z",
+            "last_commit": "2026-08-27T13:12:17Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
             "stars": 5986
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:59:15Z",
+            "last_commit": "2026-08-27T17:53:26Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189710
+            "stars": 189712
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2023-01-03T10:49:48Z",
             "owner": "atom",
             "repo": "atom",
-            "stars": 60770
+            "stars": 60769
           }
         }
       ],
@@ -324,7 +324,7 @@
             "archived": false,
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:59:19Z",
+            "last_commit": "2026-08-27T17:40:06Z",
             "owner": "TryGhost",
             "repo": "Ghost",
             "stars": 55072
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 45936895,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:56:30Z",
+            "last_commit": "2026-08-27T17:46:17Z",
             "owner": "Automattic",
             "repo": "wp-calypso",
             "stars": 12639
@@ -441,10 +441,10 @@
             "archived": false,
             "id": 4578898,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T23:39:23Z",
+            "last_commit": "2026-08-27T17:28:42Z",
             "owner": "HabitRPG",
             "repo": "habitica",
-            "stars": 14092
+            "stars": 14091
           }
         },
         {
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:53.748Z",
+    "last_updated": "2026-08-27T17:54:56.099Z",
     "original_repository_info": {
       "archived": false,
       "id": 72203974,
