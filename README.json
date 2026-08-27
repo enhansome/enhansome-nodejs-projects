@@ -12,7 +12,7 @@
             "archived": false,
             "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:38:16Z",
+            "last_commit": "2026-08-27T11:22:52Z",
             "owner": "strapi",
             "repo": "strapi",
             "stars": 73018
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-26T06:41:01Z",
             "owner": "keystonejs",
             "repo": "keystone",
-            "stars": 9963
+            "stars": 9964
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 8100370,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T15:53:08Z",
+            "last_commit": "2026-08-26T18:53:42Z",
             "owner": "apostrophecms",
             "repo": "apostrophe",
             "stars": 4608
@@ -156,7 +156,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75688
+            "stars": 75692
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-24T13:32:26Z",
             "owner": "sahat",
             "repo": "hackathon-starter",
-            "stars": 35247
+            "stars": 35248
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27116
+            "stars": 27123
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 12618379,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T12:33:31Z",
+            "last_commit": "2026-08-27T08:26:32Z",
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23584
+            "stars": 23593
           }
         },
         {
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 4117355,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T02:20:00Z",
+            "last_commit": "2026-08-27T01:04:17Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
             "stars": 5986
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T07:29:10Z",
+            "last_commit": "2026-08-27T11:59:15Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189616
+            "stars": 189710
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2023-01-03T10:49:48Z",
             "owner": "atom",
             "repo": "atom",
-            "stars": 60773
+            "stars": 60770
           }
         }
       ],
@@ -324,10 +324,10 @@
             "archived": false,
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T07:11:59Z",
+            "last_commit": "2026-08-27T11:59:19Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55063
+            "stars": 55072
           }
         },
         {
@@ -339,10 +339,10 @@
             "archived": false,
             "id": 5923215,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T18:42:36Z",
+            "last_commit": "2026-08-27T02:48:00Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41772
+            "stars": 41776
           }
         },
         {
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 45936895,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T07:23:41Z",
+            "last_commit": "2026-08-27T11:56:30Z",
             "owner": "Automattic",
             "repo": "wp-calypso",
             "stars": 12639
@@ -420,10 +420,10 @@
             "archived": false,
             "id": 4585500,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T10:17:26Z",
+            "last_commit": "2026-08-26T19:15:06Z",
             "owner": "coderaiser",
             "repo": "cloudcmd",
-            "stars": 2023
+            "stars": 2024
           }
         }
       ],
@@ -441,7 +441,7 @@
             "archived": false,
             "id": 4578898,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T07:31:08Z",
+            "last_commit": "2026-08-26T23:39:23Z",
             "owner": "HabitRPG",
             "repo": "habitica",
             "stars": 14092
@@ -495,7 +495,7 @@
             "last_commit": "2024-03-06T17:35:17Z",
             "owner": "timeoff-management",
             "repo": "timeoff-management-application",
-            "stars": 1042
+            "stars": 1043
           }
         },
         {
@@ -507,7 +507,7 @@
             "archived": false,
             "id": 49052669,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T15:25:19Z",
+            "last_commit": "2026-08-26T20:52:27Z",
             "owner": "third-culture-software",
             "repo": "bhima",
             "stars": 230
@@ -558,10 +558,10 @@
             "archived": false,
             "id": 36753839,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T00:02:53Z",
+            "last_commit": "2026-08-26T17:51:25Z",
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13093
+            "stars": 13095
           }
         },
         {
@@ -605,9 +605,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:34:09.889Z",
-    "original_repository": "sqreen/awesome-nodejs-projects",
-    "original_repository_id": 72203974,
+    "last_updated": "2026-08-27T11:59:53.748Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 72203974,
+      "language": null,
+      "last_commit": "2024-05-16T04:11:42Z",
+      "owner": "sqreen",
+      "repo": "awesome-nodejs-projects",
+      "stars": 5590
+    },
     "original_repository_sha": "16d30283c1f2914e25467866896b06a052762c8b",
     "enhanced_repository": "enhansome/enhansome-nodejs-projects",
     "enhanced_repository_description": null,
