@@ -19,7 +19,7 @@
             "open_issues": 579,
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73236,
+            "stars": 73242,
             "topics": [
               "api",
               "cms",
@@ -60,7 +60,7 @@
             "open_issues": 146,
             "owner": "keystonejs",
             "repo": "keystone",
-            "stars": 9979,
+            "stars": 9982,
             "topics": [
               "cms",
               "cms-framework",
@@ -84,11 +84,11 @@
             "id": 8100370,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-26T08:11:45Z",
-            "open_issues": 141,
+            "last_commit": "2026-09-26T13:16:24Z",
+            "open_issues": 140,
             "owner": "apostrophecms",
             "repo": "apostrophe",
-            "stars": 4628,
+            "stars": 4629,
             "topics": [
               "apostrophe",
               "cms",
@@ -277,10 +277,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-23T19:40:00Z",
-            "open_issues": 720,
+            "open_issues": 719,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75719,
+            "stars": 75717,
             "topics": [
               "api",
               "fake",
@@ -334,10 +334,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-26T06:56:38Z",
-            "open_issues": 294,
+            "open_issues": 296,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27213,
+            "stars": 27217,
             "topics": [
               "badge",
               "badge-maker",
@@ -363,10 +363,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T11:58:12Z",
-            "open_issues": 351,
+            "open_issues": 352,
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23688,
+            "stars": 23689,
             "topics": [
               "flow-based-programming",
               "javascript",
@@ -529,11 +529,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T10:43:22Z",
+            "last_commit": "2026-09-27T12:27:32Z",
             "open_issues": 21150,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 192959,
+            "stars": 193164,
             "topics": [
               "editor",
               "electron",
@@ -560,7 +560,7 @@
             "open_issues": 993,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60728,
+            "stars": 60726,
             "topics": [
               "atom",
               "editor",
@@ -591,11 +591,11 @@
             "id": 9852918,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T10:36:28Z",
-            "open_issues": 210,
+            "last_commit": "2026-09-27T07:26:32Z",
+            "open_issues": 213,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55436,
+            "stars": 55441,
             "topics": [
               "blogging",
               "cms",
@@ -625,7 +625,7 @@
             "open_issues": 75,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41780,
+            "stars": 41778,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -649,8 +649,8 @@
             "id": 45936895,
             "language": "TypeScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-26T09:17:02Z",
-            "open_issues": 3105,
+            "last_commit": "2026-09-27T11:22:07Z",
+            "open_issues": 3103,
             "owner": "Automattic",
             "repo": "wp-calypso",
             "stars": 12647,
@@ -740,7 +740,7 @@
             "open_issues": 30,
             "owner": "subnub",
             "repo": "myDrive",
-            "stars": 4235,
+            "stars": 4234,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:31.845Z"
@@ -761,7 +761,7 @@
             "open_issues": 17,
             "owner": "coderaiser",
             "repo": "cloudcmd",
-            "stars": 2029,
+            "stars": 2030,
             "topics": [
               "android",
               "cloudcmd",
@@ -805,7 +805,7 @@
             "open_issues": 118,
             "owner": "HabitRPG",
             "repo": "habitica",
-            "stars": 14174,
+            "stars": 14177,
             "topics": [
               "css",
               "express",
@@ -838,7 +838,7 @@
             "open_issues": 32,
             "owner": "jansmolders86",
             "repo": "mediacenterjs",
-            "stars": 1277,
+            "stars": 1276,
             "topics": [
               "media-center",
               "movies",
@@ -1022,7 +1022,7 @@
             "open_issues": 1091,
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13135,
+            "stars": 13138,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:31.845Z"
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T11:51:19.451Z",
+    "last_updated": "2026-09-27T12:30:33.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome open-source applications made with Node.js",
@@ -1108,7 +1108,7 @@
       "open_issues": 20,
       "owner": "sqreen",
       "repo": "awesome-nodejs-projects",
-      "stars": 5591,
+      "stars": 5592,
       "topics": []
     },
     "original_repository_sha": "16d30283c1f2914e25467866896b06a052762c8b",
