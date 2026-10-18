@@ -1,14 +1,14 @@
 # Awesome Node.js projects with stars
 
-> A curated list of awesome open-source applications made with Node.js. See [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,145 | 🐛 24 | 📅 2026-09-02
+> A curated list of awesome open-source applications made with Node.js. See [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,162 | 🐛 24 | 📅 2026-09-02
 > for a curated list of packages and resources.
 
 > [Read the story of how this repository ranked first on Hacker News and reached the 1000+ stars on Github.](https://medium.com/@vdeturckheim/the-story-of-how-i-got-first-place-on-hacker-news-and-got-1000-stars-on-github-9dc9e63ef829#.1v4b51fvs)
 
 ## CMS
 
-* [Strapi](https://github.com/strapi/strapi) ⭐ 73,326 | 🐛 585 | 🌐 TypeScript | 📅 2026-10-17 ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
-* [Keystone](https://github.com/keystonejs/keystone) ⭐ 9,975 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-28 ([website](http://keystonejs.com/)) - The open source framework for developing database-driven websites, applications and APIs. Built on Express and MongoDB.
+* [Strapi](https://github.com/strapi/strapi) ⭐ 73,331 | 🐛 596 | 🌐 TypeScript | 📅 2026-10-17 ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
+* [Keystone](https://github.com/keystonejs/keystone) ⭐ 9,978 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-28 ([website](http://keystonejs.com/)) - The open source framework for developing database-driven websites, applications and APIs. Built on Express and MongoDB.
 * [Apostrophe](https://github.com/punkave/apostrophe) ⭐ 4,649 | 🐛 143 | 🌐 JavaScript | 📅 2026-10-16 ([website](http://apostrophecms.org/)) - Apostrophe is a CMS framework that supports in-context editing, schema-driven content types, flexible widgets, and much more.
 * [Raneto](https://github.com/gilbitron/Raneto) ⭐ 2,903 | 🐛 92 | 🌐 JavaScript | 📅 2026-03-18 ([website](http://raneto.com/)) - Markdown powered Knowledgebase for Nodejs
 * [Pencilblue](https://github.com/pencilblue/pencilblue) ⭐ 1,562 | 🐛 63 | 🌐 JavaScript | 📅 2021-12-09 ([website](https://pencilblue.org/)) - Business Class Content Management.
@@ -22,19 +22,19 @@
 
 ## Developers
 
-* [JSON-server](https://github.com/typicode/json-server) ⭐ 75,731 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
+* [JSON-server](https://github.com/typicode/json-server) ⭐ 75,729 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,253 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-14 - A boilerplate for Node.js web applications.
-* [Shield](https://github.com/badges/shields) ⭐ 27,272 | 🐛 291 | 🌐 JavaScript | 📅 2026-10-16 ([website](http://shields.io/)) - Shields badge specification, website and default API server.
-* [Node-RED](https://github.com/node-red/node-red) ⭐ 23,751 | 🐛 335 | 🌐 JavaScript | 📅 2026-10-17 - A visual tool for wiring the Internet of Things
+* [Shield](https://github.com/badges/shields) ⭐ 27,272 | 🐛 293 | 🌐 JavaScript | 📅 2026-10-16 ([website](http://shields.io/)) - Shields badge specification, website and default API server.
+* [Node-RED](https://github.com/node-red/node-red) ⭐ 23,755 | 🐛 337 | 🌐 JavaScript | 📅 2026-10-17 - A visual tool for wiring the Internet of Things
 * [Hotel](https://github.com/typicode/hotel) ⭐ 9,992 | 🐛 122 | 🌐 JavaScript | 📅 2023-10-23 - Start your dev servers from your browser and get local domains in seconds.
 * [Eve](https://github.com/witheve/Eve) ⭐ 7,225 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 ([website](http://witheve.com/)) - Eve is a set of tools to help us think. Currently, these tools include: a temporal query language, a compiler, and a database.
-* [Mongo-Express](https://github.com/mongo-express/mongo-express) ⭐ 5,983 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-16 - Web-based MongoDB admin interface, written with express.
+* [Mongo-Express](https://github.com/mongo-express/mongo-express) ⭐ 5,983 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-17 - Web-based MongoDB admin interface, written with express.
 * [David-www](https://github.com/alanshaw/david-www) ⭐ 720 | 🐛 61 | 🌐 JavaScript | 📅 2022-12-14 ([website](https://david-dm.org/)) - David helps keep your project dependencies up to date.
 * [nscm](https://github.com/nodesource/nscm) ⚠️ Archived - An open-source CLI tool for working with NodeSource Certified Modules
 
 **Electron apps**
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 193,773 | 🐛 21,861 | 🌐 TypeScript | 📅 2026-10-17 ([website](https://code.visualstudio.com/)) - An Electron based text editor created by Microsoft.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 193,806 | 🐛 21,880 | 🌐 TypeScript | 📅 2026-10-18 ([website](https://code.visualstudio.com/)) - An Electron based text editor created by Microsoft.
 * [Atom](https://github.com/atom/atom) ⚠️ Archived ([website](https://atom.io/)) - Fully hackable text editor using Chrome.
 
 ## Communities Management
@@ -43,9 +43,9 @@
 
 ## Blogs
 
-* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,552 | 🐛 206 | 🌐 TypeScript | 📅 2026-10-17 ([website](https://ghost.org/)) - A simple, powerful publishing platform.
-* [Hexo](https://github.com/hexojs/hexo) ⭐ 41,777 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-29 ([website](https://hexo.io/)) - A fast, simple & powerful blog framework.
-* [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ⭐ 12,644 | 🐛 3,110 | 🌐 TypeScript | 📅 2026-10-17 ([website](https://developer.wordpress.com/calypso/)) - The new JavaScript- and API-powered WordPress.com.
+* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,562 | 🐛 206 | 🌐 TypeScript | 📅 2026-10-18 ([website](https://ghost.org/)) - A simple, powerful publishing platform.
+* [Hexo](https://github.com/hexojs/hexo) ⭐ 41,778 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-17 ([website](https://hexo.io/)) - A fast, simple & powerful blog framework.
+* [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ⭐ 12,644 | 🐛 3,112 | 🌐 TypeScript | 📅 2026-10-18 ([website](https://developer.wordpress.com/calypso/)) - The new JavaScript- and API-powered WordPress.com.
 * [Reptar](https://github.com/reptar/reptar) ⭐ 264 | 🐛 11 | 🌐 JavaScript | 📅 2017-10-14 ([website](http://reptar.github.io/)) - Powerful, modern, and flexible static site generator.
 * [Mean-Blog](https://github.com/DimitriMikadze/Mean-Blog) ⭐ 160 | 🐛 0 | 🌐 JavaScript | 📅 2018-11-11 - Blog using Expressjs, Angularjs and Mongodb. MEAN Javascript Fullstack application.
 
@@ -56,7 +56,7 @@
 
 ## Lifestyle
 
-* [Habitica](https://github.com/HabitRPG/habitica) ⭐ 14,225 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-16 ([website](https://habitica.com/static/front)) - A habit tracker app which treats your goals like a Role Playing Game.
+* [Habitica](https://github.com/HabitRPG/habitica) ⭐ 14,228 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-16 ([website](https://habitica.com/static/front)) - A habit tracker app which treats your goals like a Role Playing Game.
 * [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ⭐ 1,277 | 🐛 32 | 🌐 JavaScript | 📅 2019-04-23 ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript based Media center.
 * [moeda](https://github.com/thompsonemerson/moeda) ⭐ 150 | 🐛 6 | 🌐 JavaScript | 📅 2023-06-25 - A foreign exchange rates and currency conversion using cli.
 
@@ -69,7 +69,7 @@
 
 ## Science
 
-* [NASA's Open MCT](https://github.com/nasa/openmct) ⭐ 13,176 | 🐛 1,090 | 🌐 JavaScript | 📅 2026-10-15 ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
+* [NASA's Open MCT](https://github.com/nasa/openmct) ⭐ 13,176 | 🐛 1,089 | 🌐 JavaScript | 📅 2026-10-15 ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
 * [MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS) ⭐ 355 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2023-03-05 - An application ehich uses Machine Learning in your browser to enhance low-light images upto a great extent.
 
 ## eCommerce
@@ -78,7 +78,7 @@
 
 **Meteor apps**
 
-* [Reaction Commerce](https://github.com/reactioncommerce/reaction) ⭐ 12,397 | 🐛 96 | 🌐 JavaScript | 📅 2026-03-01 ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform.
+* [Reaction Commerce](https://github.com/reactioncommerce/reaction) ⭐ 12,396 | 🐛 96 | 🌐 JavaScript | 📅 2026-03-01 ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform.
 
 ## Chat Bots
 
@@ -97,4 +97,4 @@ This project is under the [CC0 1.0 license](https://creativecommons.org/publicdo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
